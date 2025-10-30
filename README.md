@@ -1,3 +1,15 @@
+Hi there, I'm Prosun Kumar Das 👋
+
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/prosun-kumar-das-57aa03137/">
+<img align="left" alt="Prosun's LinkedIn" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.com/npm/simple-icons%40v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.google.com/search?q=https://your-portfolio-website.com">
+<img align="left" alt="[Your Name]'s Portfolio" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.com/npm/simple-icons%40v3/icons/data.svg" />
+</a>
+
+<br />
+<br />
+
 I'm an Aspire Data Analyst passionate about uncovering insights and telling stories with data. I thrive on transforming complex datasets into actionable recommendations that drive business decisions.
 
 📊 About Me
