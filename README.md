@@ -1,13 +1,20 @@
-- 👋 Hi, I’m @prosun_kumar_das
-- 👀 I’m interested in ...Data analysis Jobs
-- 🌱 I’m currently learning ...python,SQL,
-- Expertise in data visualization and data manupulation.
-- POWER BI and TABLEAU professional in hand experiences.
-- 💞️ I’m looking to collaborate on ...Data Analatics projects
-- 📫 How to reach me ... remodas29@gmail.com
-- ⚡ Fun fact: ...
+I'm an Aspire Data Analyst passionate about uncovering insights and telling stories with data. I thrive on transforming complex datasets into actionable recommendations that drive business decisions.
 
-<!---
-Remodas29/Remodas29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 About Me
+
+🔭 I’m currently working on: ["Analyzing sales trends for a sample e-commerce dataset."]
+
+🌱 I’m currently learning: ["advanced features in Power BI" or "machine learning with Scikit-learn."]
+
+👯 I’m looking to collaborate on: ["open-source data visualization projects" or "data cleaning challenges."]
+
+🤔 I’m looking for help with: ["Understanding advanced statistical modeling."]
+
+💬 Ask me about: ["SQL, Python for data analysis, or creating dashboards in PowerBI/Tableau."]
+
+📫 How to reach me: remodas29@gmail.com
+
+⚡ Fun fact: Good Humour
+
+🛠️ My skills
+VS code,power_BI,python programing,SQL database management,excel,project management.
