@@ -1,32 +1,62 @@
-Hi there, I'm Prosun Kumar Das 👋
+Hi there, I'm Prosun Kumar Das! 👋
 
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/prosun-kumar-das-57aa03137/">
-<img align="left" alt="Prosun's LinkedIn" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.com/npm/simple-icons%40v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.google.com/search?q=https://your-portfolio-website.com">
-<img align="left" alt="[Your Name]'s Portfolio" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.com/npm/simple-icons%40v3/icons/data.svg" />
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/prosun-kumar-das-57aa03137">
+<img align="left" alt="Prosun Kumar Das's LinkedIn" width="220px" src="https://www.google.com/search?q=https://cdn.jsdelivr.com/npm/simple-icons%40v3/icons/linkedin.svg" />
 </a>
 
 <br />
 <br />
 
-I'm an Aspire Data Analyst passionate about uncovering insights and telling stories with data. I thrive on transforming complex datasets into actionable recommendations that drive business decisions.
+I'm an aspiring Data Analyst passionate about uncovering insights and telling stories with data. I thrive on transforming complex datasets into actionable recommendations that drive business decisions.
 
 📊 About Me
 
-🔭 I’m currently working on: ["Analyzing sales trends for a sample e-commerce dataset."]
+🔭 I’m currently working on: "Analyzing sales trends for a sample e-commerce dataset."
 
-🌱 I’m currently learning: ["advanced features in Power BI" or "machine learning with Scikit-learn."]
+🌱 I’m currently learning: "advanced features in Power BI" and "machine learning with Scikit-learn."
 
-👯 I’m looking to collaborate on: ["open-source data visualization projects" or "data cleaning challenges."]
+👯 I’m looking to collaborate on: "open-source data visualization projects" or "data cleaning challenges."
 
-🤔 I’m looking for help with: ["Understanding advanced statistical modeling."]
+🤔 I’m looking for help with: "Understanding advanced statistical modeling."
 
-💬 Ask me about: ["SQL, Python for data analysis, or creating dashboards in PowerBI/Tableau."]
+💬 Ask me about: Python for data analysis, SQL queries and creating dashboards in Power BI/Tableau."
 
-📫 How to reach me: remodas29@gmail.com
+📫 How to reach me: 
 
-⚡ Fun fact: Good Humour
+remodas29@gmail.com
 
-🛠️ My skills
-VS code,power_BI,python programing,SQL database management,excel,project management.
+
+
+
+
+📈 GitHub Stats
+
+(Note: These stats update automatically! You'll need to replace "your-username" with your actual GitHub username for them to work.)
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-username%26show_icons%3Dtrue%26theme%3Dradical" alt="Prosun Kumar Das's GitHub Stats" />
+&nbsp;
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-username%26layout%3Dcompact%26theme%3Dradical" alt="Prosun Kumar Das's Top Languages" />
+</p>
+
+📂 My Featured Projects
+
+(You can pin your top 3-4 repositories to your profile, and they will show up here. Alternatively, you can list them manually like this:)
+
+Project Name 1
+
+Description: A brief 1-2 line description of the project.
+
+Tools: Python, Pandas, Tableau
+
+Project Name 2
+
+Description: A brief 1-2 line description of the project.
+
+Tools: SQL, Power BI
+
+Project Name 3
+
+Description: A brief 1-2 line description of the project.
+
+Tools: R, ggplot2
