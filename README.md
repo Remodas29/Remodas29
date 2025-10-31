@@ -31,7 +31,6 @@ remodas29@gmail.com
 
 📈 GitHub Stats
 
-(Note: These stats update automatically! You'll need to replace "your-username" with your actual GitHub username for them to work.)
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRemodas29%26show_icons%3Dtrue%26theme%3Dradical" alt="Prosun Kumar Das's GitHub Stats" />
