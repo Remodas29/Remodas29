@@ -34,9 +34,9 @@ remodas29@gmail.com
 (Note: These stats update automatically! You'll need to replace "your-username" with your actual GitHub username for them to work.)
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-username%26show_icons%3Dtrue%26theme%3Dradical" alt="Prosun Kumar Das's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DRemodas29%26show_icons%3Dtrue%26theme%3Dradical" alt="Prosun Kumar Das's GitHub Stats" />
 &nbsp;
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-username%26layout%3Dcompact%26theme%3Dradical" alt="Prosun Kumar Das's Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DRemodas29%26layout%3Dcompact%26theme%3Dradical" alt="Prosun Kumar Das's Top Languages" />
 </p>
 
 📂 My Featured Projects
