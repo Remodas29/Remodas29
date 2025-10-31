@@ -41,22 +41,3 @@ remodas29@gmail.com
 
 📂 My Featured Projects
 
-(You can pin your top 3-4 repositories to your profile, and they will show up here. Alternatively, you can list them manually like this:)
-
-Project Name 1
-
-Description: A brief 1-2 line description of the project.
-
-Tools: Python, Pandas, Tableau
-
-Project Name 2
-
-Description: A brief 1-2 line description of the project.
-
-Tools: SQL, Power BI
-
-Project Name 3
-
-Description: A brief 1-2 line description of the project.
-
-Tools: R, ggplot2
