@@ -23,7 +23,7 @@ I'm an aspiring Data Analyst passionate about uncovering insights and telling st
 
 📫 How to reach me: 
 
-remodas29@gmail.com
+remodas299@gmail.com
 
 
 
